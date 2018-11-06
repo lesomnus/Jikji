@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jikji", "Jikji\Jikji.csproj", "{B11A07F2-E761-4C98-A0FB-E6C1354E6652}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JikjiTest", "JikjiTest\JikjiTest.csproj", "{C1224035-9696-45A5-A9FC-69BC271F26E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B11A07F2-E761-4C98-A0FB-E6C1354E6652}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B11A07F2-E761-4C98-A0FB-E6C1354E6652}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B11A07F2-E761-4C98-A0FB-E6C1354E6652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1224035-9696-45A5-A9FC-69BC271F26E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1224035-9696-45A5-A9FC-69BC271F26E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1224035-9696-45A5-A9FC-69BC271F26E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1224035-9696-45A5-A9FC-69BC271F26E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
